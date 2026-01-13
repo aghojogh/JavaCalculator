@@ -20,3 +20,5 @@ This project was developed for the **Object-Oriented Programming (CS 2477)** cou
 
 ## Calculation Formula
 
+Retail Price = Wholesale Cost + (Wholesale Cost × Markup Percentage ÷ 100)
+
