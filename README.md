@@ -22,3 +22,9 @@ This project was developed for the **Object-Oriented Programming (CS 2477)** cou
 
 Retail Price = Wholesale Cost + (Wholesale Cost × Markup Percentage ÷ 100)
 
+---
+
+## A Few Example Runs of the Program
+
+![Screenshot of the project](./ExampleRuns.png)
+
